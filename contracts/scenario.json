@@ -1,0 +1,248 @@
+{
+  "accounts": {
+    "account{0}": "0x0F69a2D530c106F99205bC452C35b8C491E2d33b"
+  },
+  "linkReferences": {},
+  "transactions": [
+    {
+      "timestamp": 1749951900267,
+      "record": {
+        "value": "0",
+        "inputs": "(uint256,uint256)",
+        "parameters": [
+          "100000000000000000",
+          "50000000000000000"
+        ],
+        "name": "",
+        "type": "constructor",
+        "abi": "0xa2d9ec8b7a30c8d4ec587e8f564d5a5011e9178c78e57a876c605ac83fc73a3a",
+        "contractName": "KipuBank",
+        "bytecode": "60c060405234801561000f575f5ffd5b50604051610b8b380380610b8b8339818101604052810190610031919061007f565b81608081815250508060a0818152505050506100bd565b5f5ffd5b5f819050919050565b61005e8161004c565b8114610068575f5ffd5b50565b5f8151905061007981610055565b92915050565b5f5f6040838503121561009557610094610048565b5b5f6100a28582860161006b565b92505060206100b38582860161006b565b9150509250929050565b60805160a051610a916100fa5f395f818161022a01528181610253015261072501525f81816105270152818161055001526107010152610a915ff3fe60806040526004361061007a575f3560e01c8063ecf708581161004d578063ecf7085814610128578063f848d54114610152578063f8b2cb4f1461017c578063ff50abdc146101b85761007a565b806313fcaf541461007e5780632e1a7d4d146100ba578063d0e30db0146100e2578063e4fae6da146100ec575b5f5ffd5b348015610089575f5ffd5b506100a4600480360381019061009f91906107f0565b6101e2565b6040516100b19190610833565b60405180910390f35b3480156100c5575f5ffd5b506100e060048036038101906100db9190610876565b610228565b005b6100ea610524565b005b3480156100f7575f5ffd5b50610112600480360381019061010d91906107f0565b6106b9565b60405161011f9190610833565b60405180910390f35b348015610133575f5ffd5b5061013c6106ff565b6040516101499190610833565b60405180910390f35b34801561015d575f5ffd5b50610166610723565b6040516101739190610833565b60405180910390f35b348015610187575f5ffd5b506101a2600480360381019061019d91906107f0565b610747565b6040516101af9190610833565b60405180910390f35b3480156101c3575f5ffd5b506101cc61078c565b6040516101d99190610833565b60405180910390f35b5f60015f8373ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff1681526020019081526020015f20549050919050565b7f00000000000000000000000000000000000000000000000000000000000000008111156102af57807f00000000000000000000000000000000000000000000000000000000000000006040517f016d0ef10000000000000000000000000000000000000000000000000000000081526004016102a69291906108a1565b60405180910390fd5b5f5f3373ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff1681526020019081526020015f205481111561036e57805f5f3373ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff1681526020019081526020015f20546040517fcf4791810000000000000000000000000000000000000000000000000000000081526004016103659291906108a1565b60405180910390fd5b805f5f3373ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff1681526020019081526020015f205f8282546103b991906108f5565b9250508190555060025f3373ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff1681526020019081526020015f205f81548092919061040d90610928565b91905055508060035f82825461042391906108f5565b925050819055505f3373ffffffffffffffffffffffffffffffffffffffff168260405161044f9061099c565b5f6040518083038185875af1925050503d805f8114610489576040519150601f19603f3d011682016040523d82523d5f602084013e61048e565b606091505b50509050806104d2576040517f08c379a00000000000000000000000000000000000000000000000000000000081526004016104c990610a0a565b60405180910390fd5b3373ffffffffffffffffffffffffffffffffffffffff167f7084f5476618d8e60b11ef0d7d3f06914655adb8793e28ff7f018d4c76d505d5836040516105189190610833565b60405180910390a25050565b347f00000000000000000000000000000000000000000000000000000000000000008111156105ac57807f00000000000000000000000000000000000000000000000000000000000000006040517ff46131970000000000000000000000000000000000000000000000000000000081526004016105a39291906108a1565b60405180910390fd5b345f5f3373ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff1681526020019081526020015f205f8282546105f79190610a28565b9250508190555060015f3373ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff1681526020019081526020015f205f81548092919061064b90610928565b91905055503460035f8282546106619190610a28565b925050819055503373ffffffffffffffffffffffffffffffffffffffff167f2da466a7b24304f47e87fa2e1e5a81b9831ce54fec19055ce277ca2f39ba42c4346040516106ae9190610833565b60405180910390a250565b5f60025f8373ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff1681526020019081526020015f20549050919050565b7f000000000000000000000000000000000000000000000000000000000000000081565b7f000000000000000000000000000000000000000000000000000000000000000081565b5f5f5f8373ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff1681526020019081526020015f20549050919050565b60035481565b5f5ffd5b5f73ffffffffffffffffffffffffffffffffffffffff82169050919050565b5f6107bf82610796565b9050919050565b6107cf816107b5565b81146107d9575f5ffd5b50565b5f813590506107ea816107c6565b92915050565b5f6020828403121561080557610804610792565b5b5f610812848285016107dc565b91505092915050565b5f819050919050565b61082d8161081b565b82525050565b5f6020820190506108465f830184610824565b92915050565b6108558161081b565b811461085f575f5ffd5b50565b5f813590506108708161084c565b92915050565b5f6020828403121561088b5761088a610792565b5b5f61089884828501610862565b91505092915050565b5f6040820190506108b45f830185610824565b6108c16020830184610824565b9392505050565b7f4e487b71000000000000000000000000000000000000000000000000000000005f52601160045260245ffd5b5f6108ff8261081b565b915061090a8361081b565b9250828203905081811115610922576109216108c8565b5b92915050565b5f6109328261081b565b91507fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff8203610964576109636108c8565b5b600182019050919050565b5f81905092915050565b50565b5f6109875f8361096f565b915061099282610979565b5f82019050919050565b5f6109a68261097c565b9150819050919050565b5f82825260208201905092915050565b7f5472616e73666572206661696c656400000000000000000000000000000000005f82015250565b5f6109f4600f836109b0565b91506109ff826109c0565b602082019050919050565b5f6020820190508181035f830152610a21816109e8565b9050919050565b5f610a328261081b565b9150610a3d8361081b565b9250828201905080821115610a5557610a546108c8565b5b9291505056fea264697066735822122049048cbc8b56abf2d2fbd922d19cb9dd68c60ea47d55657aa412b9e0b0b8f8a364736f6c634300081e0033",
+        "linkReferences": {},
+        "from": "account{0}"
+      }
+    }
+  ],
+  "abis": {
+    "0xa2d9ec8b7a30c8d4ec587e8f564d5a5011e9178c78e57a876c605ac83fc73a3a": [
+      {
+        "inputs": [],
+        "name": "deposit",
+        "outputs": [],
+        "stateMutability": "payable",
+        "type": "function"
+      },
+      {
+        "inputs": [
+          {
+            "internalType": "uint256",
+            "name": "_depositLimit",
+            "type": "uint256"
+          },
+          {
+            "internalType": "uint256",
+            "name": "_withdrawLimit",
+            "type": "uint256"
+          }
+        ],
+        "stateMutability": "nonpayable",
+        "type": "constructor"
+      },
+      {
+        "inputs": [
+          {
+            "internalType": "uint256",
+            "name": "attempted",
+            "type": "uint256"
+          },
+          {
+            "internalType": "uint256",
+            "name": "maxAllowed",
+            "type": "uint256"
+          }
+        ],
+        "name": "DepositLimitExceeded",
+        "type": "error"
+      },
+      {
+        "inputs": [
+          {
+            "internalType": "uint256",
+            "name": "attempted",
+            "type": "uint256"
+          },
+          {
+            "internalType": "uint256",
+            "name": "available",
+            "type": "uint256"
+          }
+        ],
+        "name": "InsufficientBalance",
+        "type": "error"
+      },
+      {
+        "inputs": [
+          {
+            "internalType": "uint256",
+            "name": "attempted",
+            "type": "uint256"
+          },
+          {
+            "internalType": "uint256",
+            "name": "limit",
+            "type": "uint256"
+          }
+        ],
+        "name": "WithdrawLimitExceeded",
+        "type": "error"
+      },
+      {
+        "anonymous": false,
+        "inputs": [
+          {
+            "indexed": true,
+            "internalType": "address",
+            "name": "user",
+            "type": "address"
+          },
+          {
+            "indexed": false,
+            "internalType": "uint256",
+            "name": "amount",
+            "type": "uint256"
+          }
+        ],
+        "name": "Deposited",
+        "type": "event"
+      },
+      {
+        "inputs": [
+          {
+            "internalType": "uint256",
+            "name": "amount",
+            "type": "uint256"
+          }
+        ],
+        "name": "withdraw",
+        "outputs": [],
+        "stateMutability": "nonpayable",
+        "type": "function"
+      },
+      {
+        "anonymous": false,
+        "inputs": [
+          {
+            "indexed": true,
+            "internalType": "address",
+            "name": "user",
+            "type": "address"
+          },
+          {
+            "indexed": false,
+            "internalType": "uint256",
+            "name": "amount",
+            "type": "uint256"
+          }
+        ],
+        "name": "Withdrawn",
+        "type": "event"
+      },
+      {
+        "inputs": [],
+        "name": "depositLimit",
+        "outputs": [
+          {
+            "internalType": "uint256",
+            "name": "",
+            "type": "uint256"
+          }
+        ],
+        "stateMutability": "view",
+        "type": "function"
+      },
+      {
+        "inputs": [
+          {
+            "internalType": "address",
+            "name": "user",
+            "type": "address"
+          }
+        ],
+        "name": "getBalance",
+        "outputs": [
+          {
+            "internalType": "uint256",
+            "name": "",
+            "type": "uint256"
+          }
+        ],
+        "stateMutability": "view",
+        "type": "function"
+      },
+      {
+        "inputs": [
+          {
+            "internalType": "address",
+            "name": "user",
+            "type": "address"
+          }
+        ],
+        "name": "getDepositCount",
+        "outputs": [
+          {
+            "internalType": "uint256",
+            "name": "",
+            "type": "uint256"
+          }
+        ],
+        "stateMutability": "view",
+        "type": "function"
+      },
+      {
+        "inputs": [
+          {
+            "internalType": "address",
+            "name": "user",
+            "type": "address"
+          }
+        ],
+        "name": "getWithdrawalCount",
+        "outputs": [
+          {
+            "internalType": "uint256",
+            "name": "",
+            "type": "uint256"
+          }
+        ],
+        "stateMutability": "view",
+        "type": "function"
+      },
+      {
+        "inputs": [],
+        "name": "totalDeposited",
+        "outputs": [
+          {
+            "internalType": "uint256",
+            "name": "",
+            "type": "uint256"
+          }
+        ],
+        "stateMutability": "view",
+        "type": "function"
+      },
+      {
+        "inputs": [],
+        "name": "withdrawLimit",
+        "outputs": [
+          {
+            "internalType": "uint256",
+            "name": "",
+            "type": "uint256"
+          }
+        ],
+        "stateMutability": "view",
+        "type": "function"
+      }
+    ]
+  }
+}

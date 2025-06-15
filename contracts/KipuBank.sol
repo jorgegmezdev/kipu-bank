@@ -80,10 +80,4 @@ contract KipuBank {
     function getWithdrawalCount(address user) external view returns (uint256) {
         return withdrawalsCount[user];
     }
-
-    // ========== FUNCIONES PRIVADAS ==========
-
-    function _examplePrivateFunction() private pure returns (bool) {
-        return true;
-    }
 }
